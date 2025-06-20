@@ -1,0 +1,4 @@
+# 注册应用模块
+registers = [
+    "App\\Web\\App"
+]
